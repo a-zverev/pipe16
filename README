@@ -1,0 +1,1 @@
+This is a pipeline for automatic treatment of 16s rDNA reads, obtained by Illumina MySEQ. Script based on a QIIME package, but use modern trimming and chimera detection programms.

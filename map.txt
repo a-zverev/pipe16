@@ -1,0 +1,3 @@
+#SampleID	RawFilenamePrefix	LinkerPrimerSequence	ReversePrimer	AnotherColumn	Site	Description
+samp.le.1	Soil-Inst-B1_S237	GTGCCAGCMGCCGCGGTAA	GGACTACVSGGGTATCTAAT	1	Pine	TestProject
+samp.le.2	Soil-Inst-B2_S238	GTGCCAGCMGCCGCGGTAA	GGACTACVSGGGTATCTAAT	2	Pine	TestProject3

@@ -1,0 +1,6 @@
+export databasefna='/home/alexey/tax_n_refs/silva_132_97_16S.fna'
+export databasetax='/home/alexey/tax_n_refs/taxonomy_7_levels.txt'
+export databasetree='/home/alexey/tax_n_refs/97_otus.tre'
+export trim_sw='4:12'
+export trim_minlen='180'
+export threads='10'
